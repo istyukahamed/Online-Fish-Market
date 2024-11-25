@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Users/istyukahamed/Documents/VS Code "
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"queue": "cpp"
+		}
+	}
+}
