@@ -1,0 +1,1 @@
+The Online Fish Market System is a web-based platform using PHP, Java, and MySQL to streamline seafood trade. Vendors manage products and orders, customers browse and buy, and admins oversee operations and generate reports, ensuring a seamless buying and selling experience.
